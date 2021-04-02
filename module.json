@@ -32,6 +32,11 @@
         "src/aura.js"
     ],
     "languages": [{
+            "lang": "ar",
+            "name": "Arabic",
+            "path": "lang/en.json"
+        },
+        {
             "lang": "en",
             "name": "English",
             "path": "lang/en.json"
